@@ -1,6 +1,6 @@
 # Stroke Prediction Project
 
-![Stroke Prediction](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Ffedesoriano%2Fstroke-prediction-dataset&psig=AOvVaw2UERA7cp4zHWTRn1P2pHU5&ust=1704966645650000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMj66u7F0oMDFQAAAAAdAAAAABAD)
+![Stroke Prediction](https://roboticsbiz.com/wp-content/uploads/2020/11/brain-696x478.jpg)
 
 Welcome to the Stroke Prediction Project! This project utilizes machine learning techniques to predict the likelihood of an individual having a stroke based on various health-related features. The dataset used for training and testing the model is included in the repository.
 
